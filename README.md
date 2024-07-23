@@ -50,7 +50,3 @@ The models were assessed based on accuracy and environmental impact. Logistic Re
 ### License
 This project is licensed under the MIT License.
 
-### Citation
-Please cite the following paper if you utilize this code your research:
-Radzkova, K. (2024). Transparency and Efficiency in Credit Risk Assessment of Alternative Financing: A Green AI Approach. University of Twente, The Netherlands.
-
